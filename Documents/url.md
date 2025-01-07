@@ -1,0 +1,1 @@
+https://github.com/libguestfs/libguestfs/blob/master/fish/guestfish.pod
